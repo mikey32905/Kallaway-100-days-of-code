@@ -17,6 +17,6 @@ Day 20: December 8, 2018
 
 <b>Thoughts:</b>  Need to watch for typos when doing the code.  I found myself getting frustrated with errors coming up, and they be nothing more than typos.
 
-<b>Link to work:</b> mikey32905.github.io/js-bootcamp/oop/
+<b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/oop/
 
 
