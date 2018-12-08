@@ -11,4 +11,12 @@ Currently, I am on Lecture 88 of the course.  Taught myself how to use and set u
 
 <b>Link to work:</b> http://github.com/mikey32905/mikey32905.github.io/js-bootcamp
 
+Day 20: December 8, 2018
+
+<b>Today's Progress:</b>  Continued to work on Udemy Javascript course.   I completed Lectures 88 - 92, whose topics were on Object Oriented programming in Javascript.  Also began to create a Javascript hangman app for the course, while implementing what was learned in the lectures.  
+
+<b>Thoughts:</b>  Need to watch for typos when doing the code.  I found myself getting frustrated with errors coming up, and they be nothing more than typos.
+
+<b>Link to work:</b> mikey32905.github.io/js-bootcamp/oop/
+
 
