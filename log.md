@@ -19,4 +19,14 @@ Day 20: December 8, 2018
 
 <b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/oop/
 
+Day 22: December 10, 2018
+
+<b>Today's Progress:</b> I took yesterday off from coding.  Made up for it today by going through 4 lectures today.  The lectures entailed protypical inheritence, primitive objects, and completing more of the hangman game app.  
+
+<b>Thoughts:</b> Those typos will totally screw you up if you do not catch them.  lol
+
+<b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/hangman/
+
+
+
 
