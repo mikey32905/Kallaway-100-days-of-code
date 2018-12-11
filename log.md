@@ -27,6 +27,16 @@ Day 22: December 10, 2018
 
 <b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/hangman/
 
+Day 23: December 11, 2018
+
+<b>Today's Progress:</b>  I was only able to work on Lecture 96 today because it was mostly a challenge that took up most of my hour.  With this challenge, I worked on it without looking at previous examples for most of the coding.  The challenge was to add more functionality to hangman game app.  
+
+<b>Thoughts:</b>  There are many ways to solve a task.  My solution was not mentioned in his tutorial, but it was still a working one.
+
+<b>Link to work:</b>   http://github.com/mikey32905.github.io/js-bootcamp/hangman/
+
+
+
 
 
 
