@@ -35,6 +35,14 @@ Day 23: December 11, 2018
 
 <b>Link to work:</b>   http://github.com/mikey32905.github.io/js-bootcamp/hangman/
 
+Day 24: December 12, 2018
+
+<b>Today's Progress:</b>  Completed lectures 99 - 101.  Continued to update hangman app using new learned topics classes, sub classes, and getter/setters.  
+
+<b>Thoughts:</b>  Classes make the code more readable.
+
+<b>Link to work:</b>    http://github.com/mikey32905.github.io/js-bootcamp/hangman/ &   http://github.com/mikey32905.github.io/js-bootcamp/oop/
+
 
 
 
