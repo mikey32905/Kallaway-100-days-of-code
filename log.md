@@ -43,6 +43,14 @@ Day 24: December 12, 2018
 
 <b>Link to work:</b>    http://github.com/mikey32905.github.io/js-bootcamp/hangman/ &   http://github.com/mikey32905.github.io/js-bootcamp/oop/
 
+Day 25: December 13, 2018
+
+<b>Today's Progress:</b>  I had extra free time at work, so I was able to get through quite a number of lectures.  Completed lectures 102 thru 112.  started learning asynchronous javascript concepts, such as http requests, callbacks and promises.  
+
+<b>Thoughts:</b>  it was interesting to see how website access occurs "behind the scenes".  
+
+<b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/hangman/  &   http://github.com/mikey32905.github.io/js-bootcamp/functions/
+
 
 
 
