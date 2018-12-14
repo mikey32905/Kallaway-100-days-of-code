@@ -9,7 +9,7 @@ Currently, I am on Lecture 88 of the course.  Taught myself how to use and set u
 
 <b>Thoughts:</b>  Course seems pretty easy to follow.   Enjoying the challenges included.  
 
-<b>Link to work:</b> http://github.com/mikey32905/mikey32905.github.io/js-bootcamp
+<b>Link to work:</b> https://github.com/mikey32905/mikey32905.github.io/js-bootcamp
 
 Day 20: December 8, 2018
 
@@ -17,7 +17,7 @@ Day 20: December 8, 2018
 
 <b>Thoughts:</b>  Need to watch for typos when doing the code.  I found myself getting frustrated with errors coming up, and they be nothing more than typos.
 
-<b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/oop/
+<b>Link to work:</b>  https://github.com/mikey32905.github.io/js-bootcamp/oop/
 
 Day 22: December 10, 2018
 
@@ -25,7 +25,7 @@ Day 22: December 10, 2018
 
 <b>Thoughts:</b> Those typos will totally screw you up if you do not catch them.  lol
 
-<b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/hangman/
+<b>Link to work:</b>  https://github.com/mikey32905.github.io/js-bootcamp/hangman/
 
 Day 23: December 11, 2018
 
@@ -33,7 +33,7 @@ Day 23: December 11, 2018
 
 <b>Thoughts:</b>  There are many ways to solve a task.  My solution was not mentioned in his tutorial, but it was still a working one.
 
-<b>Link to work:</b>   http://github.com/mikey32905.github.io/js-bootcamp/hangman/
+<b>Link to work:</b>   https://github.com/mikey32905.github.io/js-bootcamp/hangman/
 
 Day 24: December 12, 2018
 
@@ -41,7 +41,7 @@ Day 24: December 12, 2018
 
 <b>Thoughts:</b>  Classes make the code more readable.
 
-<b>Link to work:</b>    http://github.com/mikey32905.github.io/js-bootcamp/hangman/ &   http://github.com/mikey32905.github.io/js-bootcamp/oop/
+<b>Link to work:</b>    https://github.com/mikey32905.github.io/js-bootcamp/hangman/ &   https://github.com/mikey32905.github.io/js-bootcamp/oop/
 
 Day 25: December 13, 2018
 
@@ -49,7 +49,7 @@ Day 25: December 13, 2018
 
 <b>Thoughts:</b>  it was interesting to see how website access occurs "behind the scenes".  
 
-<b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/hangman/  &   http://github.com/mikey32905.github.io/js-bootcamp/functions/
+<b>Link to work:</b>  https://github.com/mikey32905.github.io/js-bootcamp/hangman/  &   https://github.com/mikey32905.github.io/js-bootcamp/functions/
 
 Day 26: December 14, 2018
 
@@ -57,7 +57,7 @@ Day 26: December 14, 2018
 
 <b>Thoughts: </b>  MDN has a good resourse base for looking up javascript helps.
 
-<b>Link to work:</b>   http://github.com/mikey32905.github.io/js-bootcamp/battleship
+<b>Link to work:</b>   https://github.com/mikey32905.github.io/js-bootcamp/battleship
 
 
 
