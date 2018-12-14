@@ -51,6 +51,14 @@ Day 25: December 13, 2018
 
 <b>Link to work:</b>  http://github.com/mikey32905.github.io/js-bootcamp/hangman/  &   http://github.com/mikey32905.github.io/js-bootcamp/functions/
 
+Day 26: December 14, 2018
+
+<b>Today's Progress:</b> My Fridays are normally PC maintenance days for me.  While doing maintenance, I decided to take a break from the class and do a project on my own.  I tried to create a battleship game app.  I had done it in a python course through Codeacademy.  So I thought I would try and convert it to Javascript.   I got pretty far. I got the board to print out but still have to work on the logic of the game.  
+
+<b>Thoughts: </b>  MDN has a good resourse base for looking up javascript helps.
+
+<b>Link to work:</b>   http://github.com/mikey32905.github.io/js-bootcamp/battleship
+
 
 
 
