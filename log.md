@@ -59,6 +59,16 @@ Day 26: December 14, 2018
 
 <b>Link to work:</b>   https://mikey32905.github.io/js-bootcamp/battleship
 
+Day 29: December 17, 2018
+
+<b>Today's Progress:</b>  Was not able to code over the weekend.  Made some notes to help with battleship app.  Went through 113-116, promise chaining and the fetch api.  There were also three challenges included.  Nice concepts that helped to clean up code.  Also attempted to update my battleship app.  
+
+<b>Thoughts: </b>  n/a
+
+<b>Link to work: </b>   https://mikey32905.github.io/js-bootcamp/hangman/  &   https://mikey32905.github.io/js-bootcamp/functions/
+
+
+
 
 
 
