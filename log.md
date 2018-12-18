@@ -67,6 +67,13 @@ Day 29: December 17, 2018
 
 <b>Link to work: </b>   https://mikey32905.github.io/js-bootcamp/hangman/  &   https://mikey32905.github.io/js-bootcamp/functions/
 
+Day 30: December 18, 2018
+
+<b>Today's Progress:</b> Today, I worked on trying to finish my battleship game app.  I was successful in getting a working app completed.  There are still some clean ups and improvements to it, but completing it was my main goal.
+
+<b>Thoughts:</b>  Take your time when coding.  Use google to help look up problems that come up.  
+
+<b>Link to work:</b>   https://mikey32905.github.io/js-bootcamp/battleship
 
 
 
