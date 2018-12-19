@@ -75,6 +75,14 @@ Day 30: December 18, 2018
 
 <b>Link to work:</b>   https://mikey32905.github.io/js-bootcamp/battleship
 
+Day 31: December 19, 2018
+
+<b>Today's Progress: </b> Today, I had lots of free time.  So I progressed more through my Udemy course.  Put finishing touches on apps created through the course, plus my battleship app.  Added CSS stylesheets to each application.
+
+<b>Thoughts: </b>  Missing semi colons in CSS are brutal and frustrating to find.
+
+<b>Links to work: </b>  https://mikey32905.github.io/js-bootcamp/battleship ,  https://mikey32905.github.io/js-bootcamp/hangman/ ,  https://mikey32905.github.io/js-bootcamp/notes-app/ , &  https://mikey32905.github.io/js-bootcamp/todo-apps/
+
 
 
 
