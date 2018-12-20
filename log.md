@@ -83,6 +83,15 @@ Day 31: December 19, 2018
 
 <b>Links to work: </b>  https://mikey32905.github.io/js-bootcamp/battleship ,  https://mikey32905.github.io/js-bootcamp/hangman/ ,  https://mikey32905.github.io/js-bootcamp/notes-app/ , &  https://mikey32905.github.io/js-bootcamp/todo-apps/
 
+Day 32: December 20, 2018
+
+<b>Today's Progress:</b>  Today was a light day for coding.  finished the course material, which lead to hosting created apps on a site, netlify.com.   
+
+<b>Thoughts:</b>  n/a
+
+<b>Links to work: </b>  https://mikey-hangman.netlify.com , https://mw-notesapp.netlify.com , https://mw-todoapp.netlify.com
+
+
 
 
 
