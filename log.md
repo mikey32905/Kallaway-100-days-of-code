@@ -91,6 +91,14 @@ Day 32: December 20, 2018
 
 <b>Links to work: </b>  https://mikey-hangman.netlify.com , https://mw-notesapp.netlify.com , https://mw-todoapp.netlify.com
 
+Day 33: December 21, 2018
+
+<b>Today's Progress:</b> Went through lectures 123 -140.  Todays lectures dealt with Babel and Webpack tools available.  Also converted Hangman app to use new items learned.
+
+<b>Thoughts: </b> n/a
+
+<b>Links to work: </b>  https://mikey-hangman.netlify.com
+
 
 
 
