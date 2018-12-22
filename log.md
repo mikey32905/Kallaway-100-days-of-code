@@ -99,6 +99,14 @@ Day 33: December 21, 2018
 
 <b>Links to work: </b>  https://mikey-hangman.netlify.com
 
+Day 34: December 22, 2018
+
+<b>Today's Progress:</b>  Went through lectures 142-145.  Today's lectures dealt with converting Notes app to use babel and webpack tools.   
+
+<b>Thoughts:</b>  n/a
+
+<b>Links to work:</b>  https://mw-notesapp.netlify.com
+
 
 
 
