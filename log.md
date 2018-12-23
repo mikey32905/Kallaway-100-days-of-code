@@ -107,6 +107,14 @@ Day 34: December 22, 2018
 
 <b>Links to work:</b>  https://mw-notesapp.netlify.com
 
+Day 35: December 23, 2018
+
+<b>Today's Progress:</b> Went through Lectures 146-148.  Most of lectures were a challenge to convert todo app to use babel and webpack.
+
+<b>Thoughts:</b> n/a
+
+<b>Links to work:</b> https://mw-todoapp.netlify.com 
+
 
 
 
