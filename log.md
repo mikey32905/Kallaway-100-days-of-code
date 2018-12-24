@@ -115,6 +115,14 @@ Day 35: December 23, 2018
 
 <b>Links to work:</b> https://mw-todoapp.netlify.com 
 
+Day 36: December 24, 2018
+
+<b>Today's Progress:</b> Finished the Udemy Javascript course this morning. Will take a few days off to update my battleship app and to create a suggested recipe app.  Contemplating my next course to do.  Will either do node.js or react or do the computer science course.  
+<b>Thoughts:</b> Feel a sense of accomplishment finishing my first udemy course.  Looking forward to starting the next one.
+
+<b>Links to work:</b> no links today.
+
+
 
 
 
