@@ -122,6 +122,16 @@ Day 36: December 24, 2018
 
 <b>Links to work:</b> no links today.
 
+Day 38: December 27, 2018
+
+<b>Today's Progress:</b> I took 2 days off from coding for Christmas.  It helped to refresh my mind and decide on my next course.  I am going to take a NodeJS Udemy course next.  But first, I started working on recipe app project from end of last course.  Got the pages' initial html completed.  Will work on the code tomorrow.
+
+<b>Thoughts:</b> Make sure to take time away from coding.  it will help with writers block that coders get.
+
+<b>Links to work:</b>  no link today
+
+
+
 
 
 
